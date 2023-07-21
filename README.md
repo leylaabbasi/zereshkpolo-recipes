@@ -1,5 +1,4 @@
-
-	![rep.jpg](https://tildariceclone.s3.eu-west-1.amazonaws.com/wp-content/uploads/2021/08/23101212/Zereshk-Polo-for-Tilda-Feed-7-scaled.jpg)
+![rep.jpg](https://tildariceclone.s3.eu-west-1.amazonaws.com/wp-content/uploads/2021/08/23101212/Zereshk-Polo-for-Tilda-Feed-7-scaled.jpg)
 
 
 # zereshkpolo-recipes
